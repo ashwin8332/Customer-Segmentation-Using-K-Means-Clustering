@@ -1,6 +1,3 @@
-Below is a **GitHub-ready `README.md`** written in clean Markdown.
-You can copy-paste this directly into your repository.
-
 ---
 
 # 🛍️ Customer Segmentation Using K-Means Clustering
