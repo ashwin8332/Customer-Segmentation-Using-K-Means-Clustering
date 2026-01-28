@@ -115,15 +115,18 @@ This project highlights the effectiveness of **unsupervised learning** in unders
 
 ---
 
-📄 License
+## 👤 Author
 
-All Rights Reserved
+**Ashwin Vincent Koonissery**
 
-© 2026. All rights reserved.
+GitHub: [https://github.com/ashwin8332](https://github.com/ashwin8332)
 
-This project, including its source code, documentation, data, and associated materials, is the exclusive property of the project author and/or the authorized institution.
+---
 
-No part of this project may be used, copied, modified, distributed, published, or reproduced in any form without explicit prior written permission from the project authority.
+## 📜 License
 
-Unauthorized use of this project is strictly prohibited.
-----------------------------------------
+This project is intended for **educational and research purposes**. Please follow the dataset’s original license terms when using it for commercial applications.
+
+---
+
+⭐ If you find this project useful, feel free to star the repository!
